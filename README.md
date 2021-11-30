@@ -6,6 +6,8 @@ This project is a analysis toward the user pattern of the new york bike sharing 
 
 ## Result
 
+Tableau visualization: https://public.tableau.com/views/NYC_Citibike_Challenge_16381316218760/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 From the data we can see that
 
 - The majority of users uses citibike for less than 1 hr trips.
